@@ -13,3 +13,6 @@ Learning JS from scratch
 
   -  "Number" datatype
 
+# Drawbacks
+1. Use of clamp instead of font-size for easy responsive design across different devices
+   
